@@ -27,4 +27,4 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 1. Clone the repository
    ```sh
-   git clone [https://github.com/ichwanfauzi/Android-Developer-FoodCare-Smart-Food-Management-App.git](https://github.com/ichwanfauzi/Android-Developer-FoodCare-Smart-Food-Management-App.git)
+   git clone [https://github.com/ichwanfauzi/foodcare-android.git](https://github.com/ichwanfauzi/Android-Developer-FoodCare-Smart-Food-Management-App.git)
